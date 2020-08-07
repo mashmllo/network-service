@@ -83,7 +83,7 @@ Requires user interaction / reboot.
 ## Linux 
 
 ### Automation scripts 
-[linpeas.sh](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite)
+[linpeas.sh](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) <br>
 [linenum.sh](https://github.com/rebootuser/LinEnum)
 ### Kernel Exploit 
 ```
