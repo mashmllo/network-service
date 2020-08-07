@@ -2,7 +2,7 @@
 
 ## Gathering information 
 ### using online search engine 
-using google fu. <br>
+Using google fu. <br>
 [Google fu cheatsheet](http://www.googleguide.com/print/adv_op_ref.pdf)
 ### Port scanning 
 #### nmap 
