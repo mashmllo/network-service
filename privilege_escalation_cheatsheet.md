@@ -122,7 +122,7 @@ Requires user interaction
 ```
 
 # References
-https://0xsp.com/offensive/privilege-escalation-cheatsheet
-https://www.fuzzysecurity.com/tutorials/16.html
-https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
-https://github.com/rebootuser/LinEnum
+https://0xsp.com/offensive/privilege-escalation-cheatsheet <br>
+https://www.fuzzysecurity.com/tutorials/16.html <br>
+https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite <br>
+https://github.com/rebootuser/LinEnum <br>
